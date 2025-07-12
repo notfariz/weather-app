@@ -3,7 +3,7 @@
 A simple weather reporting app built with React, Vite, Tailwind CSS, and the OpenWeatherMap API.
 
 ## 🌐 Live Demo
-[Click here to view]([https://weather-app-yourusername.vercel.app/](https://weather-app-eta-two-14.vercel.app/))
+[Click here to view](https://weather-app-yourusername.vercel.app/](https://weather-app-eta-two-14.vercel.app/))
 
 ## 🛠️ Stack
 - React (via Vite)
